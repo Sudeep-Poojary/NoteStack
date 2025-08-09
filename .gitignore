@@ -1,0 +1,11 @@
+# Dependency directory
+/node_modules
+
+# Distribution directory
+/dist
+
+# Parcel Cache directory
+.parcel-cache
+
+# Testing directory
+/coverage

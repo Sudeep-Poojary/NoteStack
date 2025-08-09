@@ -1,0 +1,21 @@
+{
+  "name": "notestack",
+  "version": "1.0.0",
+  "description": "NoteStack - Stack your notes",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudeep-Poojary/NoteStack.git"
+  },
+  "author": "Sudeep Poojary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudeep-Poojary/NoteStack/issues"
+  },
+  "homepage": "https://github.com/Sudeep-Poojary/NoteStack#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
